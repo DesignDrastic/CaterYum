@@ -1,4 +1,4 @@
-# One-Page-CV
+# CaterYum - Free HTML Responsive Website Template for Catering Business
 ----------------------------------
 # Terms of Use
 
