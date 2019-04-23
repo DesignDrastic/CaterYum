@@ -1,0 +1,184 @@
+@media only screen and (min-width:1301px) and (max-width:1350px)
+{
+	.left-slider-wrapper .headerform textarea{ height:58px; }
+	.headerform{ top:20px; }
+	.left-slider-wrapper{ min-height:438px; }
+}
+
+@media only screen and (min-width:1251px) and (max-width:1300px)
+{
+	.left-slider-wrapper .headerform textarea{ height:58px; }
+	.headerform{ top:20px; }
+	.left-slider-wrapper{ min-height:438px; }
+}
+
+@media only screen and (min-width:1201px) and (max-width:1250px)
+{
+	.left-slider-wrapper .headerform textarea{ height:58px; }
+	.headerform{ top:20px; }
+	.left-slider-wrapper{ min-height:438px; }
+}
+
+@media only screen and (min-width:1171px) and (max-width:1200px)
+{
+	.left-slider-wrapper .headerform textarea{ height:58px; }
+	.headerform{ top:20px; }
+	.left-slider-wrapper{ min-height:426px; }
+	
+}
+
+@media only screen and (min-width:1025px) and (max-width:1170px)
+{
+	.left-slider-wrapper .headerform textarea{ height:58px; }
+	.headerform{ top:10px; }
+	.left-slider-wrapper .headerform input{ padding:4px 15px; margin-bottom:10px; }
+	.left-slider-wrapper .headerform h3{ margin-bottom:10px; }
+	.left-slider-wrapper{ min-height:372px; }
+	.left-slider-wrapper .flexslider .slider-text{ padding-left:10px; }
+	.ourpartner .client-box .client-icon{ width:130px; }
+	
+}
+
+@media only screen and (min-width:992px) and (max-width:1024px)
+{
+	.left-slider-wrapper .headerform textarea{ height:58px; }
+	.headerform{ top:10px; }
+	.left-slider-wrapper .headerform input{ padding:4px 15px; margin-bottom:10px; }
+	.left-slider-wrapper .headerform h3{ margin-bottom:10px; }
+	.left-slider-wrapper{ min-height:362px; }
+	.left-slider-wrapper .flexslider .slider-text{ padding-left:20px; }
+	.left-slider-wrapper .headerform{ width:270px; margin-right:20px; }
+	.ourpartner .client-box .client-icon{ width:130px; }
+	  
+	
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px)
+{
+	header .headertop .location .address{ margin-right:7px; }
+	.left-slider-wrapper .flexslider .slider-text h1{ font-size:24px; }
+	.left-slider-wrapper .flexslider .slider-text p{ font-size:15px; line-height:18px; }
+	.headerform{ top:10px; }
+	.left-slider-wrapper .flexslider .slider-text{ width:350px; }
+	.left-slider-wrapper .headerform input{ width:49%; }
+	.left-slider-wrapper .headerform .formfill{ padding:0 10px; }
+	.left-slider-wrapper .headerform textarea{ height:70px; }
+	.left-slider-wrapper .headerform input{ padding:3px 15px; }
+	.left-slider-wrapper .headerform h3{  padding: 5px 15px; font-size:18px; margin-bottom:10px; }
+	.left-slider-wrapper .headerform input[type="submit"]{ padding:5px 14px;  }
+	.left-slider-wrapper{ min-height:279px; }
+	.left-slider-wrapper .flexslider .slider-text{ padding-left:20px; }
+	.left-slider-wrapper .headerform{ margin-right:20px; }
+	.welcomesection .col-sm-7{ width:100%; margin-bottom:20px; }
+	.welcomesection .col-sm-5{ width:100%; }
+	.ourpartner .client-box .client-icon{ width:95px; }
+	.ourpartner .client-box{ height:80px; }
+	.contact-section .contactform input{ padding:7px 10px; }
+	.contact-section .contactform textarea{ height:80px; }
+	.gallary .owl-prev{ left:-20px; }
+	.gallary .owl-next{ right:-20px; }
+}
+
+@media only screen and (min-width: 640px) and (max-width: 767px)
+{
+	header .headertop .location{ width:62%; }
+	header .headertop .location .address{ margin-right:10px; }
+	.left-slider-wrapper .flexslider{ position:relative !important; }
+	.left-slider-wrapper .headerform{ width:100%; }
+	.left-slider-wrapper .headerform input{ width:48.5%; }
+	.left-slider-wrapper .headerform input:nth-child(odd){ margin-right:10px; }
+	.left-slider-wrapper{ min-height:inherit; overflow:inherit; }
+	.headerform{ top:0; margin-bottom:20px; }
+	.left-slider-wrapper .flexslider .slider-text{ width:100%; text-align:center; }
+	.welcomesection .col-sm-7{ margin-bottom:20px; }
+	.metropolitan-menu .cocktail-menu{ width:100%; }
+	.metropolitan-menu .wedding-buffet{ width:100%; }
+	.metropolitan-menu::after{ top:inherit; bottom:0; width:100%; }
+	.metropolitan-menu::before{ width:100%; }
+	.gallary .owl-prev{ left:-15px; }
+	.gallary .owl-next{ right:-15px; }
+	.ourpartner .client-box{ width:33.33%; float:left; }
+	.contact-section .ourpartner{ margin-top:15px; }
+}
+@media only screen and (min-width: 480px) and (max-width: 639px)
+{
+	header .headertop .location{ width:62%; }
+	header .headertop .location .address{ margin-right:10px; }
+	.left-slider-wrapper .flexslider{ position:relative !important; }
+	.left-slider-wrapper .headerform{ width:100%; }
+	.left-slider-wrapper .headerform input{ width:48.2%; }
+	.left-slider-wrapper .headerform input:nth-child(odd){ margin-right:10px; }
+	.left-slider-wrapper{ min-height:inherit; overflow:inherit; }
+	.headerform{ top:0; margin-bottom:20px; }
+	.left-slider-wrapper .flexslider .slider-text{ width:350px; text-align:center; }
+	.left-slider-wrapper .flexslider .slider-text h1{ font-size:24px; }
+	.left-slider-wrapper .flexslider .slider-text p{ font-size:15px; }
+	.welcomesection .col-sm-7{ margin-bottom:20px; }
+	.metropolitan-menu .cocktail-menu{ width:100%; }
+	.metropolitan-menu .wedding-buffet{ width:100%; }
+	.metropolitan-menu::after{ top:inherit; bottom:0; width:100%; }
+	.metropolitan-menu::before{ width:100%; }
+	.gallary .owl-prev{ left:-15px; }
+	.gallary .owl-next{ right:-15px; }
+	.ourpartner .client-box{ width:50%; float:left; }
+	.contact-section .ourpartner{ margin-top:15px; }
+	header .headertop .location{ width:100%; text-align:center; float:left; margin:0 auto; }
+	header .headertop .location .address{ float:none; display:inline-block; }
+	header .headertop .location .mail{ float:none; vertical-align:top; display:inline-block; }
+	header .headertop .searchbar{ float:none; margin:0 auto; text-align:center; display:block; }
+	header .headertop .searchbar input{ float:none; display:inline-block; }
+	header .headertop .searchbar input[type="submit"]{ float:none; display:inline-block; }
+	.ourpartner .client-box:nth-child(4){ border-top: 1px solid #e2e2e2; }
+	
+	
+}
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+	header .headertop .location{ width:62%; }
+	header .headertop .location .address{ margin-right:10px; }
+	.left-slider-wrapper .flexslider{ position:relative !important; }
+	.left-slider-wrapper .headerform{ width:100%; }
+	.left-slider-wrapper .headerform input{ width:100%; }
+	.left-slider-wrapper{ min-height:inherit; overflow:inherit; }
+	.headerform{ top:0; margin-bottom:20px; }
+	.left-slider-wrapper .flexslider .slider-text{ width:250px; margin:0 auto; text-align:center; }
+	.left-slider-wrapper .flexslider .slider-text{ top:30% }
+	.welcomesection .col-sm-7{ margin-bottom:20px; }
+	.metropolitan-menu .cocktail-menu{ width:100%; }
+	.metropolitan-menu .wedding-buffet{ width:100%; }
+	.metropolitan-menu::after{ top:inherit; bottom:0; width:100%; }
+	.metropolitan-menu::before{ width:100%; }
+	.gallary .owl-prev{ left:-15px; }
+	.gallary .owl-next{ right:-15px; }
+	.ourpartner .client-box{ width:100%; float:left; }
+	.contact-section .ourpartner{ margin-top:15px; }
+	header .headertop .location{ width:100%; text-align:center; float:left; margin:0 auto; }
+	header .headertop .location .address{ float:none; display:inline-block; }
+	header .headertop .location .mail{ float:none; vertical-align:top; display:inline-block; }
+	header .headertop .searchbar{ float:none; margin:0 auto; text-align:center; display:block; }
+	header .headertop .searchbar input{ float:none; vertical-align:top; display:inline-block; }
+	header .headertop .searchbar input[type="submit"]{ float:none; display:inline-block; }
+	.ourpartner .client-box:nth-child(4){ border-top: 1px solid #e2e2e2; }
+	header .logo{ width:150px; }
+	header .headertop .location{ margin-bottom:15px; }
+	header .headercalldiv h4{ font-size:14px; }
+	.left-slider-wrapper .flexslider .slider-text h1{ font-size:20px; }
+	.welcomesection h2{ font-size:24px; }
+	.left-slider-wrapper .flexslider .slider-text h1{ font-size:18px; }
+	.left-slider-wrapper .flexslider .slider-text p{ font-size:12px; line-height:16px; }
+	.left-slider-wrapper .flex-direction-nav{ display:block; margin:0 auto; text-align:center; }
+	.flex-direction-nav a{ position:relative !important; }
+	.flex-direction-nav li{ display:inline-block; margin:10px; }
+	.flexslider:hover .flex-prev{ left:0; }
+	.flexslider:hover .flex-next{ right:0; }	
+}
+
+
+
+
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto\9; /* ie8 */
+}
+
