@@ -1,5 +1,12 @@
 # CaterYum - Free HTML Responsive Website Template for Catering Business
 ----------------------------------
+
+<a href="https://designdrastic.com/template/cateryum-responsive-website-template"><strong>View Post</strong></a><br />
+<a href="https://designdrastic.github.io/CaterYum/"><strong>View Demo</strong></a><br />
+
+![Demo](/1556027139-screenshot-localhost-2019.04.23-18-48-03.png)
+
+
 # Terms of Use
 
   - The offered resources can be used on any personal projects as-is format.
